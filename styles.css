@@ -1,0 +1,28 @@
+/* Your CSS code goes in this file. */
+
+/* h1 { font-family: "Arial" } */
+/* h1 { font-family: "Times New Roman" } */
+
+/* h1 {
+  border: solid 10px black;
+  margin: 100px;
+  padding: 50px;
+} */
+
+body {
+  font-family: "Arial";
+  width: 960px;
+  margin: 20px auto;
+}
+
+h1 { color: black; }
+
+h2 { color: grey; }
+
+.italics { font-style: italics; font-size: 22px; }
+
+.important { font-style: strong; }
+
+div { border: solid 1px gray;
+  padding: 10px;
+}
