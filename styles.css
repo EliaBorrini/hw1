@@ -21,7 +21,7 @@ h2 { color: grey; }
 
 .italics { font-style: italics; font-size: 22px; }
 
-.important { font-style: strong; }
+.important { font-weight: bolder; }
 
 div { border: solid 1px gray;
   padding: 10px;
